@@ -16,6 +16,7 @@ public class BoardDAO {
 	ResultSet rs;
 	String sql;
 	
+	// ssssssa
 	public BoardDAO() {
 		
 		try {		
